@@ -1,5 +1,5 @@
 # safepath/utils/crime_scoring.py
-import pandas as p:d
+import pandas as p
 
 from .deepseek_client import rate_segment_risk
 from .geometry_utils import haversine
@@ -31,4 +31,4 @@ def summarize_crime_for_segment(a, b, crime_df, radius=200):
     }
 
     result = rate_segment_risk(summary)
-    return result["risk"],result["explaination"]
+    return result["risk"],result["explanation"]

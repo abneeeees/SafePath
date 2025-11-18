@@ -1,227 +1,226 @@
 Crime_Type,Crime,Latitude,Longitude,Severity,Description
 Theft,Pickpocketing,28.564041,77.334413,2,Victim lost wallet in a crowded market.
 Theft,Theft of Vehicle,28.474771,77.476268,5,Car stolen from parking lot.
-Assault,Battery,28.475000,77.477000,4,Physical altercation between two individuals.
-Burglary,Burglary,28.460000,77.450000,5,House was broken into at night.
-Theft,Shoplifting,28.474500,77.475500,3,Individual caught stealing clothes from a store.
-Vandalism,Graffiti,28.459000,77.460000,2,Wall tagged with graffiti in public park.
-Theft,Theft from Person,28.567000,77.336000,3,Cell phone grabbed from hand.
-Assault,Assault with Intent,28.458000,77.455000,4,Attack during a late-night walk.
-Road Violation,Reckless Driving,28.470000,77.490000,2,Driver speeding and weaving through traffic.
-Theft,Theft from Vehicle,28.474500,77.476500,3,Items stolen from unlocked car.
-Burglary,Attempted Burglary,28.462000,77.448000,3,Intruder fled before entering the house.
-Vandalism,Property Damage,28.560000,77.335000,3,Damaged benches in a community park.
-Assault,Domestic Violence,28.475500,77.479000,5,Report of ongoing domestic dispute.
-Theft,Identity Theft,28.457000,77.450000,4,Victim’s financial details compromised.
-Drug Offense,Possession,28.468000,77.485000,4,Individual found with illegal substances.
-Theft,Purse Snatching,28.566000,77.335500,3,Victim's purse grabbed while walking.
-Assault,Aggravated Assault,28.476000,77.478500,5,Serious injury from a fight.
-Robbery,Armed Robbery,28.470500,77.482500,5,Victim threatened with a weapon for money.
-Traffic Violation,DUI,28.463000,77.490000,4,Driver arrested for intoxication.
-Drug Offense,Distribution,28.469500,77.480500,5,Suspect dealing drugs on the street.
-Vandalism,Window Smash,28.461000,77.452000,2,Property vandalized with broken glass.
-Theft,Carjacking,28.459500,77.458000,5,Victim's vehicle taken at gunpoint.
-Vandalism,Destruction of Property,28.470000,77.479000,3,Community center damaged.
-Assault,Verbal Threat,28.474000,77.484000,2,Threat made but no physical harm.
-Theft,Online Fraud,28.467000,77.482000,4,Scammed online shopping victim.
-Theft,Shoplifting,28.471000,77.480000,3,Caught stealing electronics in store.
-Burglary,Burglary to Vehicle,28.458000,77.453000,3,Tools stolen from pickup truck.
-Theft,Credit Card Fraud,28.475000,77.481000,4,Victim notified of charges made without consent.
-Granted,Theft,28.474500,77.442000,3,Personal items taken from picnic area.
-Assault,Public Disorder,28.565000,77.334000,2,Disturbance in public caused by intoxicated individuals.
-Violent Crime,Armed Robbery,28.47512,77.47598,9,"A late-night confrontation involving firearms at a major intersection."
-Property Crime,Vehicle Theft,28.47490,77.47640,7,"Stolen car reported from a residential parking area. Vehicle make: Honda City."
-Public Disorder,Vandalism,28.56395,77.33455,2,"Graffiti spray-painted on a public wall near a market."
-Violent Crime,Assault,28.47460,77.47610,8,"Physical altercation outside a bar; one individual hospitalized."
-Property Crime,Burglary,28.47445,77.47630,8,"Home invasion reported in a secluded villa area. Electronics and jewelry missing."
-Non-Violent Crime,Pickpocketing,28.56410,77.33430,3,"Wallet stolen from a commuter at a busy bus stop."
-Public Disorder,Street Harassment,28.45720,77.50045,4,"Report of cat-calling and intimidation near a university campus."
-Property Crime,Theft from Vehicle,28.47530,77.47660,6,"Window smashed, laptop and bag stolen from a parked car."
-Non-Violent Crime,Shoplifting,28.56420,77.33420,1,"Minor merchandise stolen from a convenience store during rush hour."
-Violent Crime,Kidnapping Attempt,28.47480,77.47580,10,"Report of an attempted abduction of a child near a park. Suspect fled."
-Property Crime,Bike Theft,28.45710,77.50035,5,"Motorcycle stolen from a residential parking lot; security footage unclear."
-Public Disorder,Noise Complaint,28.56400,77.33440,1,"Loud music reported from an apartment late at night."
-Violent Crime,Grievous Hurt,28.47420,77.47650,9,"Victim sustained serious injuries from an attack with a blunt object."
-Property Crime,Theft of Personal Items,28.47500,77.47600,5,"Mobile phone snatched from a pedestrian while talking."
-Non-Violent Crime,Pickpocketing,28.45700,77.50050,3,"Tourist reported their passport and money stolen from a backpack."
-Public Disorder,Public Intoxication,28.56380,77.33460,2,"Individual found heavily intoxicated and causing a scene in a public square."
-Property Crime,Theft by Deception,28.47495,77.47625,6,"Elderly person scammed out of cash by a fake service provider."
-Non-Violent Crime,Pickpocketing,28.56405,77.33435,3,"Cash taken from a purse in a crowded shopping mall."
-Property Crime,Vehicle Theft,28.45715,77.50040,7,"Scooter stolen from outside a coaching center."
-Violent Crime,Sexual Assault,28.47470,77.47615,10,"Report filed regarding an incident in a secluded underpass."
-Property Crime,Minor Theft,28.56415,77.33425,2,"Delivery package stolen from a doorstep."
-Public Disorder,Illegal Gambling,28.47520,77.47650,4,"Police raided an illegal gambling den operating out of a back alley."
-Non-Violent Crime,Pickpocketing,28.45705,77.50045,3,"Cell phone snatched near a metro station exit."
-Property Crime,Burglary,28.47455,77.47605,8,"Forced entry into a ground floor apartment; high-value items taken."
-Violent Crime,Assault with Weapon,28.47430,77.47640,9,"Attack reported involving a knife; victim is in stable condition."
-Non-Violent Crime,Pickpocketing,28.56390,77.33450,3,"Wallet stolen from a jacket pocket on a crowded street."
-Property Crime,Theft of Personal Items,28.45725,77.50030,5,"Gold chain snatched off a pedestrian during a morning walk."
-Public Disorder,Unruly Behavior,28.47510,77.47630,3,"Group of youths causing disruption and harassing passersby."
-Non-Violent Crime,Shoplifting,28.56425,77.33415,1,"Teenagers caught attempting to steal snacks from a supermarket."
-Property Crime,Theft from Vehicle,28.45700,77.50050,6,"Car stereo and navigation system stolen from a locked car."
-Violent Crime,Homicide,28.47477,77.47627,10,"Body discovered in a secluded construction site. Investigation ongoing."
-Non-Violent Crime,Pickpocketing,28.56404,77.33441,3,"Theft reported on a public transport bus route."
-Property Crime,Vehicle Theft,28.45714,77.50040,7,"Luxury SUV stolen during daylight hours from a mall parking lot."
-Public Disorder,Trespassing,28.47465,77.47610,2,"Individual found illegally entering a private factory compound."
-Non-Violent Crime,Pickpocketing,28.56398,77.33446,3,"Tourists targeted in a busy street market."
-Property Crime,Minor Theft,28.45718,77.50036,2,"Bicycle lock cut and bike stolen from a school premise."
-Violent Crime,Road Rage Assault,28.47505,77.47650,7,"Physical fight escalated from a minor traffic accident."
-Non-Violent Crime,Pickpocketing,28.56401,77.33443,3,"Mobile phone stolen from a person sitting at an outdoor cafe."
-Property Crime,Theft of Personal Items,28.45722,77.50038,5,"Briefcase containing sensitive documents stolen from an office worker."
-Violent Crime,Domestic Violence,28.47435,77.47620,9,"Police responded to a severe domestic dispute at a residential address."
-Property Crime,Vehicle Theft,28.47515,77.47635,7,"Truck stolen from an industrial area overnight."
-Non-Violent Crime,Pickpocketing,28.56408,77.33438,3,"Keys and wallet stolen from a backpack while walking."
-Public Disorder,Loud Party,28.45708,77.50042,1,"Late-night complaint about excessive noise from a rented venue."
-Property Crime,Burglary Attempt,28.47485,77.47600,6,"Suspects attempted to break into a jewelry store but were deterred by an alarm."
-Non-Violent Crime,Pickpocketing,28.56392,77.33453,3,"Man's watch stolen without him noticing in a crowded elevator."
-Property Crime,Minor Theft,28.45712,77.50033,2,"Flower pots stolen from the entrance of a house."
-Violent Crime,Stalking,28.47450,77.47645,7,"Restraining order violation reported; suspect seen near the victim's workplace."
+Assault,Battery,28.475,77.477,4,Physical altercation between two individuals.
+Burglary,Burglary,28.46,77.45,5,House was broken into at night.
+Theft,Shoplifting,28.4745,77.4755,3,Individual caught stealing clothes from a store.
+Vandalism,Graffiti,28.459,77.46,2,Wall tagged with graffiti in public park.
+Theft,Theft from Person,28.567,77.336,3,Cell phone grabbed from hand.
+Assault,Assault with Intent,28.458,77.455,4,Attack during a late-night walk.
+Road Violation,Reckless Driving,28.47,77.49,2,Driver speeding and weaving through traffic.
+Theft,Theft from Vehicle,28.4745,77.4765,3,Items stolen from unlocked car.
+Burglary,Attempted Burglary,28.462,77.448,3,Intruder fled before entering the house.
+Vandalism,Property Damage,28.56,77.335,3,Damaged benches in a community park.
+Assault,Domestic Violence,28.4755,77.479,5,Report of ongoing domestic dispute.
+Theft,Identity Theft,28.457,77.45,4,Victim’s financial details compromised.
+Drug Offense,Possession,28.468,77.485,4,Individual found with illegal substances.
+Theft,Purse Snatching,28.566,77.3355,3,Victim's purse grabbed while walking.
+Assault,Aggravated Assault,28.476,77.4785,5,Serious injury from a fight.
+Robbery,Armed Robbery,28.4705,77.4825,5,Victim threatened with a weapon for money.
+Traffic Violation,DUI,28.463,77.49,4,Driver arrested for intoxication.
+Drug Offense,Distribution,28.4695,77.4805,5,Suspect dealing drugs on the street.
+Vandalism,Window Smash,28.461,77.452,2,Property vandalized with broken glass.
+Theft,Carjacking,28.4595,77.458,5,Victim's vehicle taken at gunpoint.
+Vandalism,Destruction of Property,28.47,77.479,3,Community center damaged.
+Assault,Verbal Threat,28.474,77.484,2,Threat made but no physical harm.
+Theft,Online Fraud,28.467,77.482,4,Scammed online shopping victim.
+Theft,Shoplifting,28.471,77.48,3,Caught stealing electronics in store.
+Burglary,Burglary to Vehicle,28.458,77.453,3,Tools stolen from pickup truck.
+Theft,Credit Card Fraud,28.475,77.481,4,Victim notified of charges made without consent.
+Granted,Theft,28.4745,77.442,3,Personal items taken from picnic area.
+Assault,Public Disorder,28.565,77.334,1,Disturbance in public caused by intoxicated individuals.
+Violent Crime,Armed Robbery,28.47512,77.47598,4,A late-night confrontation involving firearms at a major intersection.
+Property Crime,Vehicle Theft,28.4749,77.4764,3,Stolen car reported from a residential parking area. Vehicle make: Honda City.
+Public Disorder,Vandalism,28.56395,77.33455,2,Graffiti spray-painted on a public wall near a market.
+Violent Crime,Assault,28.4746,77.4761,4,Physical altercation outside a bar; one individual hospitalized.
+Property Crime,Burglary,28.47445,77.4763,4,Home invasion reported in a secluded villa area. Electronics and jewelry missing.
+Non-Violent Crime,Pickpocketing,28.5641,77.3343,3,Wallet stolen from a commuter at a busy bus stop.
+Public Disorder,Street Harassment,28.4572,77.50045,4,Report of cat-calling and intimidation near a university campus.
+Property Crime,Theft from Vehicle,28.4753,77.4766,2,Window smashed laptop and bag stolen from a parked car.
+Non-Violent Crime,Shoplifting,28.5642,77.3342,1,Minor merchandise stolen from a convenience store during rush hour.
+Violent Crime,Kidnapping Attempt,28.4748,77.4758,5,Report of an attempted abduction of a child near a park. Suspect fled.
+Property Crime,Bike Theft,28.4571,77.50035,2,Motorcycle stolen from a residential parking lot; security footage unclear.
+Public Disorder,Noise Complaint,28.564,77.3344,1,Loud music reported from an apartment late at night.
+Violent Crime,Grievous Hurt,28.4742,77.4765,5,Victim sustained serious injuries from an attack with a blunt object.
+Property Crime,Theft of Personal Items,28.475,77.476,4,Mobile phone snatched from a pedestrian while talking.
+Non-Violent Crime,Pickpocketing,28.457,77.5005,1,Tourist reported their passport and money stolen from a backpack.
+Public Disorder,Public Intoxication,28.56380,77.33460,1,Individual found heavily intoxicated and causing a scene in a public square.
+Property Crime,Theft by Deception,28.47495,77.47625,1,Elderly person scammed out of cash by a fake service provider.
+Non-Violent Crime,Pickpocketing,28.56405,77.33435,3,Cash taken from a purse in a crowded shopping mall.
+Property Crime,Vehicle Theft,28.45715,77.5004,2,Scooter stolen from outside a coaching center.
+Violent Crime,Sexual Assault,28.4747,77.47615,5,Report filed regarding an incident in a secluded underpass.
+Property Crime,Minor Theft,28.56415,77.33425,2,Delivery package stolen from a doorstep.
+Public Disorder,Illegal Gambling,28.4752,77.4765,4,Police raided an illegal gambling den operating out of a back alley.
+Non-Violent Crime,Pickpocketing,28.45705,77.50045,3,Cell phone snatched near a metro station exit.
+Property Crime,Burglary,28.47455,77.47605,3,Forced entry into a ground floor apartment; high-value items taken.
+Violent Crime,Assault with Weapon,28.4743,77.4764,4,Attack reported involving a knife; victim is in stable condition.
+Non-Violent Crime,Pickpocketing,28.5639,77.3345,3,Wallet stolen from a jacket pocket on a crowded street.
+Property Crime,Theft of Personal Items,28.45725,77.5003,3,Gold chain snatched off a pedestrian during a morning walk.
+Public Disorder,Unruly Behavior,28.4751,77.4763,3,Group of youths causing disruption and harassing passersby.
+Non-Violent Crime,Shoplifting,28.56425,77.33415,1,Teenagers caught attempting to steal snacks from a supermarket.
+Property Crime,Theft from Vehicle,28.457,77.5005,4,Car stereo and navigation system stolen from a locked car.
+Violent Crime,Homicide,28.47477,77.47627,5,Body discovered in a secluded construction site. Investigation ongoing.
+Non-Violent Crime,Pickpocketing,28.56404,77.33441,3,Theft reported on a public transport bus route.
+Property Crime,Vehicle Theft,28.45714,77.5004,3,Luxury SUV stolen during daylight hours from a mall parking lot.
+Public Disorder,Trespassing,28.47465,77.4761,2,Individual found illegally entering a private factory compound.
+Non-Violent Crime,Pickpocketing,28.56398,77.33446,3,Tourists targeted in a busy street market.
+Property Crime,Minor Theft,28.45718,77.50036,2,Bicycle lock cut and bike stolen from a school premise.
+Violent Crime,Road Rage Assault,28.47505,77.4765,4,Physical fight escalated from a minor traffic accident.
+Non-Violent Crime,Pickpocketing,28.56401,77.33443,3,Mobile phone stolen from a person sitting at an outdoor cafe.
+Property Crime,Theft of Personal Items,28.45722,77.50038,5,Briefcase containing sensitive documents stolen from an office worker.
+Violent Crime,Domestic Violence,28.47435,77.4762,5,Police responded to a severe domestic dispute at a residential address.
+Property Crime,Vehicle Theft,28.47515,77.47635,3,Truck stolen from an industrial area overnight.
+Non-Violent Crime,Pickpocketing,28.56408,77.33438,3,Keys and wallet stolen from a backpack while walking.
+Public Disorder,Loud Party,28.45708,77.50042,1,Late-night complaint about excessive noise from a rented venue.
+Property Crime,Burglary Attempt,28.47485,77.476,3,Suspects attempted to break into a jewelry store but were deterred by an alarm.
+Non-Violent Crime,Pickpocketing,28.56392,77.33453,3,Man's watch stolen without him noticing in a crowded elevator.
+Property Crime,Minor Theft,28.45712,77.50033,2,Flower pots stolen from the entrance of a house.
+Violent Crime,Stalking,28.4745,77.47645,2,Restraining order violation reported; suspect seen near the victim's workplace.
 Theft,Pickpocketing,28.564041,77.334413,1,Pickpocketing incident in a crowded market area.
 Assault,Physical Assault,28.474771,77.476268,4,Physical assault reported near a popular park.
-Theft,Shoplifting,28.458000,77.497000,2,Shoplifting incident at a local convenience store.
-Robbery,Armed Robbery,28.476000,77.472000,5,Armed robbery at a gas station.
-Burglary,Break-in,28.469000,77.486000,3,Break-in at a residential property.
+Theft,Shoplifting,28.458,77.497,2,Shoplifting incident at a local convenience store.
+Robbery,Armed Robbery,28.476,77.472,5,Armed robbery at a gas station.
+Burglary,Break-in,28.469,77.486,3,Break-in at a residential property.
 Theft,Pickpocketing,28.564041,77.334413,1,Pickpocketing identified at a busy subway station.
-Fraud,Online Fraud,28.450000,77.480000,2,Online fraud reported through a local business.
-Assault,Verbal Assault,28.474900,77.476000,2,Verbal assault reported in a public setting.
-Theft,Theft from Vehicle,28.460000,77.496000,3,Theft from an unattended vehicle reported in a parking lot.
-Vandalism,Graffiti,28.470000,77.470000,2,Graffiti found on the side of a building.
-Robbery,Carjacking,28.465000,77.490000,5,Carjacking incident near a supermarket.
-Assault,Domestic Violence,28.475000,77.477000,4,Domestic violence reported at a home.
+Fraud,Online Fraud,28.45,77.48,2,Online fraud reported through a local business.
+Assault,Verbal Assault,28.4749,77.476,2,Verbal assault reported in a public setting.
+Theft,Theft from Vehicle,28.46,77.496,3,Theft from an unattended vehicle reported in a parking lot.
+Vandalism,Graffiti,28.47,77.47,2,Graffiti found on the side of a building.
+Robbery,Carjacking,28.465,77.49,5,Carjacking incident near a supermarket.
+Assault,Domestic Violence,28.475,77.477,4,Domestic violence reported at a home.
 Theft,Bike Theft,28.564041,77.334413,3,Bike stolen from a bike rack near the park.
-Theft,Shoplifting,28.457000,77.500400,2,Shoplifting incident at a local grocery store.
-Fraud,Identity Theft,28.470000,77.485000,3,Identity theft reported by a victim through email.
-Vandalism,Property Damage,28.464000,77.490000,2,Property damage reported at a local community center.
+Theft,Shoplifting,28.457,77.5004,2,Shoplifting incident at a local grocery store.
+Fraud,Identity Theft,28.47,77.485,3,Identity theft reported by a victim through email.
+Vandalism,Property Damage,28.464,77.49,2,Property damage reported at a local community center.
 Theft,Wallet Snatching,28.564041,77.334413,1,Wallet snatched during an outdoor event.
-Assault,Public Disorder,28.474000,77.476500,3,Public disturbance leading to minor injuries.
-Theft,Pickpocketing,28.457140,77.500399,1,Pickpocketing reported at a crowded local bazaar.
-Robbery,Home Invasion,28.462000,77.494000,4,Home invasion reported at a suburban house.
-Fraud,Investment Scam,28.455000,77.477000,2,Investment scam reported by an individual.
-Assault,Street Fight,28.466000,77.476000,3,Street fight reported after a sports event.
-Theft,recycling bin theft,28.467000,77.488000,1,Theft of materials from a residential recycling bin.
-Vandalism,Park Damage,28.465000,77.472000,2,Damage done to public park benches.
+Assault,Public Disorder,28.474,77.4765,3,Public disturbance leading to minor injuries.
+Theft,Pickpocketing,28.45714,77.500399,1,Pickpocketing reported at a crowded local bazaar.
+Robbery,Home Invasion,28.462,77.494,4,Home invasion reported at a suburban house.
+Fraud,Investment Scam,28.455,77.477,2,Investment scam reported by an individual.
+Assault,Street Fight,28.466,77.476,3,Street fight reported after a sports event.
+Theft,recycling bin theft,28.467,77.488,1,Theft of materials from a residential recycling bin.
+Vandalism,Park Damage,28.465,77.472,2,Damage done to public park benches.
 Robbery,Pickpocketing,28.564041,77.334413,1,Another pickpocketing case in a tourist spot.
-Fraud,Phone Scams,28.450000,77.476500,3,Multiple reports of phone scams targeting elderly citizens.
-Theft,Laptop Theft,28.457140,77.500399,3,Laptop stolen from a student at coffee shop.
-Assault,Physical Assault,28.474000,77.470000,4,Physical assault at a nightclub.
-Theft,Iphone Theft,28.462000,77.496500,3,Iphone stolen from a table at a coffee shop.
-Robbery,Bank Robbery,28.477000,77.489000,5,Bank robbery in progress, police dispatched.
-Vandalism,Smashed Windows,28.460000,77.472000,2,Smashed windows reported at an old building.
-Assault,Domestic Dispute,28.474000,77.477000,4,Domestic dispute resulting in police involvement.
-Fraud,Charity Scam,28.449000,77.478000,2,Fraudulent charity collection reported.
+Fraud,Phone Scams,28.45,77.4765,3,Multiple reports of phone scams targeting elderly citizens.
+Theft,Laptop Theft,28.45714,77.500399,3,Laptop stolen from a student at coffee shop.
+Assault,Physical Assault,28.474,77.47,4,Physical assault at a nightclub.
+Theft,Iphone Theft,28.462,77.4965,3,Iphone stolen from a table at a coffee shop.
+Robbery,Bank Robbery,28.477,77.489,5,Bank robbery in progress police dispatched.
+Vandalism,Smashed Windows,28.46,77.472,2,Smashed windows reported at an old building.
+Assault,Domestic Dispute,28.474,77.477,4,Domestic dispute resulting in police involvement.
+Fraud,Charity Scam,28.449,77.478,2,Fraudulent charity collection reported.
 Theft,Backpack Theft,28.564041,77.334413,2,Backpack theft at a train station.
-Assault,Public Intoxication,28.465500,77.490000,2,Public intoxication resulting in Street fight
-Non-Violent Crime,Pickpocketing,28.65650,77.24495,3,"Wallet snatched from a passenger in a crowded metro station."
-Non-Violent Crime,Pickpocketing,28.64755,77.31490,3,"Mobile phone stolen from a bus commuter near a popular market."
-Property Crime,Vehicle Theft,28.56380,77.33400,7,"Motorcycle stolen from a residential parking basement in Noida."
-Violent Crime,Armed Robbery,28.65700,77.24400,9,"A late-night robbery at gunpoint on a service lane in Central Delhi."
-Public Disorder,Vandalism,28.64800,77.31550,2,"Graffiti spray-painted on public property near an intersection."
-Property Crime,Burglary,28.47400,77.47600,8,"Forced entry into a vacant flat in a Greater Noida high-rise; electronics missing."
-Non-Violent Crime,Chain Snatching,28.65600,77.24550,6,"Gold chain snatched from a woman during her morning walk."
-Property Crime,Theft from Vehicle,28.56420,77.33450,5,"Car window smashed, bag stolen from a parked sedan in a Noida mall parking lot."
-Non-Violent Crime,Shoplifting,28.64700,77.31450,1,"Minor theft reported from a Ghaziabad convenience store."
-Violent Crime,Assault,28.47550,77.47650,8,"Physical altercation outside a commercial complex; two people injured."
-Non-Violent Crime,Pickpocketing,28.65630,77.24470,3,"Theft of cash from a tourist's backpack in a heavy traffic area."
-Public Disorder,Public Intoxication,28.56350,77.33420,2,"Individual found heavily inebriated and causing nuisance in a park."
-Property Crime,Minor Theft,28.45710,77.50040,2,"Stolen delivery package reported from a doorstep in Ghaziabad."
-Violent Crime,Sexual Harassment,28.64780,77.31520,7,"Report of harassment in a crowded lane near a university."
-Property Crime,Bike Theft,28.65680,77.24420,4,"Scooter stolen from outside a coaching institute during the day."
-Non-Violent Crime,Pickpocketing,28.64720,77.31470,3,"Cell phone snatched near the metro exit gate."
-Property Crime,Theft of Personal Items,28.47450,77.47630,5,"Laptop bag stolen from a table at a cafe in Greater Noida."
-Violent Crime,Attempted Murder,28.65550,77.24600,10,"A planned attack involving a deadly weapon; suspect apprehended."
-Non-Violent Crime,Pickpocketing,28.56450,77.33480,3,"Wallet and keys stolen from a person sleeping on a park bench."
-Property Crime,Burglary Attempt,28.64820,77.31500,6,"Alarm triggered during an attempted break-in at a locked jewellery store."
-Public Disorder,Illegal Gambling,28.47500,77.47580,4,"Police raided an underground gambling operation in a secluded area."
-Non-Violent Crime,Pickpocketing,28.65670,77.24440,3,"Cash stolen from an elderly person at an ATM queue."
-Property Crime,Vehicle Theft,28.56390,77.33410,7,"SUV stolen from a service centre while undergoing repairs."
-Violent Crime,Road Rage,28.64730,77.31460,7,"Serious physical assault resulting from a minor traffic incident."
-Non-Violent Crime,Pickpocketing,28.45720,77.50030,3,"Theft reported on a crowded market street in Ghaziabad."
-Property Crime,Credit Card Fraud,28.65580,77.24580,5,"Victim's credit card details compromised and used for multiple online purchases."
-Public Disorder,Loud Noise Complaint,28.56410,77.33440,1,"Complaint about loud music and partying late at night from a rental property."
-Violent Crime,Domestic Violence,28.47420,77.47610,9,"Emergency services called to a severe domestic dispute at a private residence."
-Property Crime,Theft by Deception,28.64760,77.31510,6,"Victim lost money to a fake investment scheme promoter."
-Non-Violent Crime,Pickpocketing,28.65640,77.24460,3,"Foreign tourist reported their travel documents and wallet stolen."
-Property Crime,Minor Theft,28.45700,77.50050,2,"Flower pots and decorative items stolen from an apartment balcony."
-Violent Crime,Assault with Weapon,28.56370,77.33430,9,"Attack involving a sharp object; victim in critical condition."
-Non-Violent Crime,Pickpocketing,28.64740,77.31480,3,"Cash and transit pass stolen from a purse at a bus station."
-Property Crime,Theft from Vehicle,28.47480,77.47640,6,"High-end tools stolen from a construction vehicle parked overnight."
-Non-Violent Crime,Pickpocketing,28.65660,77.24480,3,"Theft of an expensive cell phone during a public rally."
-Non-Violent Crime,Pickpocketing,28.64710,77.31440,3,"Theft in a congested area during the afternoon rush hour."
-Property Crime,Vehicle Theft,28.56400,77.33460,7,"Car stolen from outside a multiplex cinema."
-Violent Crime,Stalking,28.65570,77.24570,7,"Victim filed a complaint after repeated unwelcome appearances by an individual."
-Property Crime,Theft of Personal Items,28.47460,77.47620,5,"Gym bag with valuables stolen from a locker room."
-Non-Violent Crime,Pickpocketing,28.64790,77.31530,3,"Money and ID stolen while shopping at a local vendor stall."
-Property Crime,Vehicle Theft,28.39700,77.30050,7,"SUV stolen from a service road in Faridabad during the afternoon."
-Violent Crime,Assault,28.69750,77.45030,8,"Group assault reported near a factory area in Ghaziabad."
-Non-Violent Crime,Pickpocketing,28.40500,77.31000,3,"Wallet stolen from a bus passenger near a Faridabad bus stop."
-Property Crime,Burglary,29.95400,76.88200,8,"Home invasion reported in a secluded area of Haryana (Karnal district). Electronics missing."
-Public Disorder,Vandalism,28.69000,77.46000,2,"Graffiti spray-painted on a public wall in Ghaziabad's residential sector."
-Non-Violent Crime,Pickpocketing,28.40450,77.30950,3,"Mobile phone snatched from a pedestrian near a market in Faridabad."
-Property Crime,Theft from Vehicle,28.68500,77.47000,6,"Laptop bag stolen after breaking the car window in a Ghaziabad parking lot."
-Violent Crime,Chain Snatching,28.38000,77.28000,6,"Gold chain snatched from an elderly woman during her evening walk in Faridabad."
-Public Disorder,Public Intoxication,29.95000,76.88500,2,"Individual found intoxicated and disturbing public peace in Sonipat district."
-Property Crime,Minor Theft,28.67500,77.48000,2,"Delivery package stolen from a doorstep in a Ghaziabad apartment complex."
-Non-Violent Crime,Pickpocketing,28.40400,77.31050,3,"Cash stolen from a jacket pocket at a crowded Faridabad fair."
-Violent Crime,Kidnapping Attempt,28.39800,77.30100,10,"Report of an attempted child abduction near a school in Faridabad."
-Property Crime,Bike Theft,28.69900,77.44900,5,"Motorcycle stolen from a commercial area parking spot in Ghaziabad."
-Public Disorder,Street Harassment,28.37500,77.27500,4,"Report of cat-calling and intimidation near a university campus in Faridabad."
-Property Crime,Theft of Personal Items,29.95300,76.88100,5,"Purse containing ID and money stolen from a restaurant table in Rohtak district."
-Violent Crime,Sexual Assault,28.69500,77.45500,10,"Report filed regarding an incident in a secluded underpass in Ghaziabad."
-Non-Violent Crime,Shoplifting,28.39600,77.30200,1,"Minor merchandise stolen from a convenience store in Faridabad during rush hour."
-Property Crime,Vehicle Theft,29.95200,76.88000,7,"Car stolen from an unsecured parking area in Haryana (Panipat district)."
-Public Disorder,Illegal Gambling,28.68000,77.47500,4,"Police raided an illegal gambling den operating in a back alley of Ghaziabad."
-Non-Violent Crime,Pickpocketing,28.40350,77.30900,3,"Tourist reported their wallet and phone stolen from a backpack near a Faridabad monument."
-Property Crime,Burglary,28.38500,77.28500,8,"Forced entry into a ground floor apartment in Faridabad; high-value jewelry taken."
-Violent Crime,Assault with Weapon,29.95100,76.88300,9,"Attack reported involving a knife; victim is in stable condition in Hisar district."
-Non-Violent Crime,Pickpocketing,28.69200,77.45800,3,"Wallet stolen from a jacket pocket on a crowded Ghaziabad street market."
-Property Crime,Theft of Personal Items,28.39500,77.30300,5,"Gold chain snatched off a pedestrian during a morning walk in Faridabad."
-Public Disorder,Unruly Behavior,28.67000,77.49000,3,"Group of youths causing disruption and harassing passersby in Ghaziabad."
-Non-Violent Crime,Shoplifting,29.95050,76.88450,1,"Teenagers caught attempting to steal snacks from a supermarket in jind district."
-Property Crime,Theft from Vehicle,28.39400,77.30400,6,"Car stereo and navigation system stolen from a locked car in Faridabad."
-Violent Crime,Homicide,28.69400,77.45600,10,"Body discovered in a secluded area near a drain in Ghaziabad. Investigation ongoing."
-Non-Violent Crime,Pickpocketing,28.40480,77.30980,3,"Theft reported on a public transport bus route in Faridabad."
-Property Crime,Vehicle Theft,29.95020,76.88480,7,"Luxury sedan stolen during daylight hours from a mall parking lot in Bhiwani district."
-Non-Violent Crime,Pickpocketing,28.40380,77.31020,3,"Mobile phone stolen from a person sitting at an outdoor cafe in Faridabad."
-Property Crime,Theft of Personal Items,28.69650,77.45250,5,"Briefcase containing sensitive documents stolen from an office worker in Ghaziabad."
-Violent Crime,Domestic Violence,28.39750,77.30080,9,"Police responded to a severe domestic dispute at a residential address in Faridabad."
-Property Crime,Vehicle Theft,29.95450,76.88150,7,"Truck stolen from an industrial area overnight in Haryana (Ambala district)."
-Non-Violent Crime,Pickpocketing,28.40420,77.31080,3,"Keys and wallet stolen from a backpack while walking in Faridabad."
-Public Disorder,Loud Party,28.68800,77.46200,1,"Late-night complaint about excessive noise from a rented venue in Ghaziabad."
-Property Crime,Burglary Attempt,28.39850,77.30150,6,"Suspects attempted to break into a small shop but were deterred by an alarm in Faridabad."
-Non-Violent Crime,Pickpocketing,29.95150,76.88350,3,"Man's watch stolen without him noticing in a crowded elevator in Sonipat district."
-Property Crime,Minor Theft,28.67800,77.47800,2,"Flower pots stolen from the entrance of a house in Ghaziabad."
-Violent Crime,Stalking,28.38200,77.28200,7,"Restraining order violation reported; suspect seen near the victim's workplace in Faridabad."
+Assault,Public Intoxication,28.4655,77.49,2,Public intoxication resulting in Street fight
+Non-Violent Crime,Pickpocketing,28.6565,77.24495,3,Wallet snatched from a passenger in a crowded metro station.
+Non-Violent Crime,Pickpocketing,28.64755,77.3149,3,Mobile phone stolen from a bus commuter near a popular market.
+Property Crime,Vehicle Theft,28.5638,77.334,3,Motorcycle stolen from a residential parking basement in Noida.
+Violent Crime,Armed Robbery,28.657,77.244,5,A late-night robbery at gunpoint on a service lane in Central Delhi.
+Public Disorder,Vandalism,28.648,77.3155,1,Graffiti spray-painted on public property near an intersection.
+Property Crime,Burglary,28.474,77.476,4,Forced entry into a vacant flat in a Greater Noida high-rise; electronics missing.
+Non-Violent Crime,Chain Snatching,28.656,77.2455,3,Gold chain snatched from a woman during her morning walk.
+Property Crime,Theft from Vehicle,28.5642,77.3345,2,Car window smashed bag stolen from a parked sedan in a Noida mall parking lot.
+Non-Violent Crime,Shoplifting,28.647,77.3145,1,Minor theft reported from a Ghaziabad convenience store.
+Violent Crime,Assault,28.4755,77.4765,4,Physical altercation outside a commercial complex; two people injured.
+Non-Violent Crime,Pickpocketing,28.6563,77.2447,3,Theft of cash from a tourist's backpack in a heavy traffic area.
+Public Disorder,Public Intoxication,28.5635,77.3342,2,Individual found heavily inebriated and causing nuisance in a park.
+Property Crime,Minor Theft,28.4571,77.5004,2,Stolen delivery package reported from a doorstep in Ghaziabad.
+Violent Crime,Sexual Harassment,28.6478,77.3152,3,Report of harassment in a crowded lane near a university.
+Property Crime,Bike Theft,28.6568,77.2442,2,Scooter stolen from outside a coaching institute during the day.
+Non-Violent Crime,Pickpocketing,28.6472,77.3147,3,Cell phone snatched near the metro exit gate.
+Property Crime,Theft of Personal Items,28.4745,77.4763,5,Laptop bag stolen from a table at a cafe in Greater Noida.
+Violent Crime,Attempted Murder,28.6555,77.246,5,A planned attack involving a deadly weapon; suspect apprehended.
+Non-Violent Crime,Pickpocketing,28.5645,77.3348,3,Wallet and keys stolen from a person sleeping on a park bench.
+Property Crime,Burglary Attempt,28.6482,77.315,2,Alarm triggered during an attempted break-in at a locked jewellery store.
+Public Disorder,Illegal Gambling,28.475,77.4758,4,Police raided an underground gambling operation in a secluded area.
+Non-Violent Crime,Pickpocketing,28.6567,77.2444,3,Cash stolen from an elderly person at an ATM queue.
+Property Crime,Vehicle Theft,28.5639,77.3341,3,SUV stolen from a service centre while undergoing repairs.
+Violent Crime,Road Rage,28.6473,77.3146,2,Serious physical assault resulting from a minor traffic incident.
+Non-Violent Crime,Pickpocketing,28.4572,77.5003,3,Theft reported on a crowded market street in Ghaziabad.
+Property Crime,Credit Card Fraud,28.6558,77.2458,2,Victim's credit card details compromised and used for multiple online purchases.
+Public Disorder,Loud Noise Complaint,28.5641,77.3344,1,Complaint about loud music and partying late at night from a rental property.
+Violent Crime,Domestic Violence,28.4742,77.4761,5,Emergency services called to a severe domestic dispute at a private residence.
+Property Crime,Theft by Deception,28.6476,77.3151,2,Victim lost money to a fake investment scheme promoter.
+Non-Violent Crime,Pickpocketing,28.6564,77.2446,3,Foreign tourist reported their travel documents and wallet stolen.
+Property Crime,Minor Theft,28.457,77.5005,2,Flower pots and decorative items stolen from an apartment balcony.
+Violent Crime,Assault with Weapon,28.5637,77.3343,4,Attack involving a sharp object; victim in critical condition.
+Non-Violent Crime,Pickpocketing,28.6474,77.3148,3,Cash and transit pass stolen from a purse at a bus station.
+Property Crime,Theft from Vehicle,28.4748,77.4764,2,High-end tools stolen from a construction vehicle parked overnight.
+Non-Violent Crime,Pickpocketing,28.6566,77.2448,3,Theft of an expensive cell phone during a public rally.
+Non-Violent Crime,Pickpocketing,28.6471,77.3144,3,Theft in a congested area during the afternoon rush hour.
+Property Crime,Vehicle Theft,28.564,77.3346,3,Car stolen from outside a multiplex cinema.
+Violent Crime,Stalking,28.6557,77.2457,4,Victim filed a complaint after repeated unwelcome appearances by an individual.
+Property Crime,Theft of Personal Items,28.4746,77.4762,3,Gym bag with valuables stolen from a locker room.
+Non-Violent Crime,Pickpocketing,28.6479,77.3153,3,Money and ID stolen while shopping at a local vendor stall.
+Property Crime,Vehicle Theft,28.397,77.3005,3,SUV stolen from a service road in Faridabad during the afternoon.
+Violent Crime,Assault,28.6975,77.4503,4,Group assault reported near a factory area in Ghaziabad.
+Non-Violent Crime,Pickpocketing,28.405,77.31,3,Wallet stolen from a bus passenger near a Faridabad bus stop.
+Property Crime,Burglary,29.954,76.882,4,Home invasion reported in a secluded area of Haryana (Karnal district). Electronics missing.
+Public Disorder,Vandalism,28.69,77.46,2,Graffiti spray-painted on a public wall in Ghaziabad's residential sector.
+Non-Violent Crime,Pickpocketing,28.4045,77.3095,3,Mobile phone snatched from a pedestrian near a market in Faridabad.
+Property Crime,Theft from Vehicle,28.685,77.47,2,Laptop bag stolen after breaking the car window in a Ghaziabad parking lot.
+Violent Crime,Chain Snatching,28.38,77.28,2,Gold chain snatched from an elderly woman during her evening walk in Faridabad.
+Public Disorder,Public Intoxication,29.95,76.885,2,Individual found intoxicated and disturbing public peace in Sonipat district.
+Property Crime,Minor Theft,28.675,77.48,2,Delivery package stolen from a doorstep in a Ghaziabad apartment complex.
+Non-Violent Crime,Pickpocketing,28.404,77.3105,3,Cash stolen from a jacket pocket at a crowded Faridabad fair.
+Violent Crime,Kidnapping Attempt,28.398,77.301,5,Report of an attempted child abduction near a school in Faridabad.
+Property Crime,Bike Theft,28.699,77.449,5,Motorcycle stolen from a commercial area parking spot in Ghaziabad.
+Public Disorder,Street Harassment,28.375,77.275,4,Report of cat-calling and intimidation near a university campus in Faridabad.
+Property Crime,Theft of Personal Items,29.953,76.881,5,Purse containing ID and money stolen from a restaurant table in Rohtak district.
+Violent Crime,Sexual Assault,28.695,77.455,5,Report filed regarding an incident in a secluded underpass in Ghaziabad.
+Non-Violent Crime,Shoplifting,28.396,77.302,1,Minor merchandise stolen from a convenience store in Faridabad during rush hour.
+Property Crime,Vehicle Theft,29.952,76.88,3,Car stolen from an unsecured parking area in Haryana (Panipat district).
+Public Disorder,Illegal Gambling,28.68,77.475,4,Police raided an illegal gambling den operating in a back alley of Ghaziabad.
+Non-Violent Crime,Pickpocketing,28.4035,77.309,3,Tourist reported their wallet and phone stolen from a backpack near a Faridabad monument.
+Property Crime,Burglary,28.385,77.285,4,Forced entry into a ground floor apartment in Faridabad; high-value jewelry taken.
+Violent Crime,Assault with Weapon,29.951,76.883,5,Attack reported involving a knife; victim is in stable condition in Hisar district.
+Non-Violent Crime,Pickpocketing,28.692,77.458,3,Wallet stolen from a jacket pocket on a crowded Ghaziabad street market.
+Property Crime,Theft of Personal Items,28.395,77.303,2,Gold chain snatched off a pedestrian during a morning walk in Faridabad.
+Public Disorder,Unruly Behavior,28.67,77.49,3,Group of youths causing disruption and harassing passersby in Ghaziabad.
+Non-Violent Crime,Shoplifting,29.9505,76.8845,1,Teenagers caught attempting to steal snacks from a supermarket in jind district.
+Property Crime,Theft from Vehicle,28.394,77.304,3,Car stereo and navigation system stolen from a locked car in Faridabad.
+Violent Crime,Homicide,28.694,77.456,5,Body discovered in a secluded area near a drain in Ghaziabad. Investigation ongoing.
+Non-Violent Crime,Pickpocketing,28.4048,77.3098,3,Theft reported on a public transport bus route in Faridabad.
+Property Crime,Vehicle Theft,29.9502,76.8848,5,Luxury sedan stolen during daylight hours from a mall parking lot in Bhiwani district.
+Non-Violent Crime,Pickpocketing,28.4038,77.3102,3,Mobile phone stolen from a person sitting at an outdoor cafe in Faridabad.
+Property Crime,Theft of Personal Items,28.6965,77.4525,2,Briefcase containing sensitive documents stolen from an office worker in Ghaziabad.
+Violent Crime,Domestic Violence,28.3975,77.3008,4,Police responded to a severe domestic dispute at a residential address in Faridabad.
+Property Crime,Vehicle Theft,29.9545,76.8815,3,Truck stolen from an industrial area overnight in Haryana (Ambala district).
+Non-Violent Crime,Pickpocketing,28.4042,77.3108,3,Keys and wallet stolen from a backpack while walking in Faridabad.
+Public Disorder,Loud Party,28.688,77.462,1,Late-night complaint about excessive noise from a rented venue in Ghaziabad.
+Property Crime,Burglary Attempt,28.3985,77.3015,2,Suspects attempted to break into a small shop but were deterred by an alarm in Faridabad.
+Non-Violent Crime,Pickpocketing,29.9515,76.8835,3,Man's watch stolen without him noticing in a crowded elevator in Sonipat district.
+Property Crime,Minor Theft,28.678,77.478,2,Flower pots stolen from the entrance of a house in Ghaziabad.
+Violent Crime,Stalking,28.382,77.282,4,Restraining order violation reported; suspect seen near the victim's workplace in Faridabad.
 Theft,Pickpocketing,28.564041,77.334413,1,Pickpocketing incident in a crowded market area.
 Assault,Physical Assault,28.474771,77.476268,4,Physical assault reported near a popular park.
-Theft,Shoplifting,28.458000,77.497000,2,Shoplifting incident at a local convenience store.
-Robbery,Armed Robbery,28.476000,77.472000,5,Armed robbery at a gas station.
-Burglary,Break-in,28.469000,77.486000,3,Break-in at a residential property.
+Theft,Shoplifting,28.458,77.497,2,Shoplifting incident at a local convenience store.
+Robbery,Armed Robbery,28.476,77.472,5,Armed robbery at a gas station.
+Burglary,Break-in,28.469,77.486,3,Break-in at a residential property.
 Theft,Pickpocketing,28.564041,77.334413,1,Pickpocketing identified at a busy subway station.
-Fraud,Online Fraud,28.450000,77.480000,2,Online fraud reported through a local business.
-Assault,Verbal Assault,28.474900,77.476000,2,Verbal assault reported in a public setting.
-Theft,Theft from Vehicle,28.460000,77.496000,3,Theft from an unattended vehicle reported in a parking lot.
-Vandalism,Graffiti,28.470000,77.470000,2,Graffiti found on the side of a building.
-Robbery,Carjacking,28.465000,77.490000,5,Carjacking incident near a supermarket.
-Assault,Domestic Violence,28.475000,77.477000,4,Domestic violence reported at a home.
+Fraud,Online Fraud,28.45,77.48,2,Online fraud reported through a local business.
+Assault,Verbal Assault,28.4749,77.476,2,Verbal assault reported in a public setting.
+Theft,Theft from Vehicle,28.46,77.496,3,Theft from an unattended vehicle reported in a parking lot.
+Vandalism,Graffiti,28.47,77.47,2,Graffiti found on the side of a building.
+Robbery,Carjacking,28.465,77.49,5,Carjacking incident near a supermarket.
+Assault,Domestic Violence,28.475,77.477,4,Domestic violence reported at a home.
 Theft,Bike Theft,28.564041,77.334413,3,Bike stolen from a bike rack near the park.
-Theft,Shoplifting,28.457000,77.500400,2,Shoplifting incident at a local grocery store.
-Fraud,Identity Theft,28.470000,77.485000,3,Identity theft reported by a victim through email.
-Vandalism,Property Damage,28.464000,77.490000,2,Property damage reported at a local community center.
+Theft,Shoplifting,28.457,77.5004,2,Shoplifting incident at a local grocery store.
+Fraud,Identity Theft,28.47,77.485,3,Identity theft reported by a victim through email.
+Vandalism,Property Damage,28.464,77.49,2,Property damage reported at a local community center.
 Theft,Wallet Snatching,28.564041,77.334413,1,Wallet snatched during an outdoor event.
-Assault,Public Disorder,28.474000,77.476500,3,Public disturbance leading to minor injuries.
-Theft,Pickpocketing,28.457140,77.500399,1,Pickpocketing reported at a crowded local bazaar.
-Robbery,Home Invasion,28.462000,77.494000,4,Home invasion reported at a suburban house.
-Fraud,Investment Scam,28.455000,77.477000,2,Investment scam reported by an individual.
-Assault,Street Fight,28.466000,77.476000,3,Street fight reported after a sports event.
-Theft,recycling bin theft,28.467000,77.488000,1,Theft of materials from a residential recycling bin.
-Vandalism,Park Damage,28.465000,77.472000,2,Damage done to public park benches.
+Assault,Public Disorder,28.474,77.4765,3,Public disturbance leading to minor injuries.
+Theft,Pickpocketing,28.45714,77.500399,1,Pickpocketing reported at a crowded local bazaar.
+Robbery,Home Invasion,28.462,77.494,4,Home invasion reported at a suburban house.
+Fraud,Investment Scam,28.455,77.477,2,Investment scam reported by an individual.
+Assault,Street Fight,28.466,77.476,3,Street fight reported after a sports event.
+Theft,recycling bin theft,28.467,77.488,1,Theft of materials from a residential recycling bin.
+Vandalism,Park Damage,28.465,77.472,2,Damage done to public park benches.
 Robbery,Pickpocketing,28.564041,77.334413,1,Another pickpocketing case in a tourist spot.
-Fraud,Phone Scams,28.450000,77.476500,3,Multiple reports of phone scams targeting elderly citizens.
-Theft,Laptop Theft,28.457140,77.500399,3,Laptop stolen from a student at coffee shop.
-Assault,Physical Assault,28.474000,77.470000,4,Physical assault at a nightclub.
-Theft,Iphone Theft,28.462000,77.496500,3,Iphone stolen from a table at a coffee shop.
-Robbery,Bank Robbery,28.477000,77.489000,5,Bank robbery in progress, police dispatched.
-Vandalism,Smashed Windows,28.460000,77.472000,1,Smashed windows reported at an old building.
-Assault,Domestic Dispute,28.474000,77.477000,4,Domestic dispute resulting in police involvement.
-Fraud,Charity Scam,28.449000,77.478000,2,Fraudulent charity collection reported.
+Fraud,Phone Scams,28.45,77.4765,3,Multiple reports of phone scams targeting elderly citizens.
+Theft,Laptop Theft,28.45714,77.500399,3,Laptop stolen from a student at coffee shop.
+Assault,Physical Assault,28.474,77.47,4,Physical assault at a nightclub.
+Theft,Iphone Theft,28.462,77.4965,3,Iphone stolen from a table at a coffee shop.
+Vandalism,Smashed Windows,28.46,77.472,1,Smashed windows reported at an old building.
+Assault,Domestic Dispute,28.474,77.477,4,Domestic dispute resulting in police involvement.
+Fraud,Charity Scam,28.449,77.478,2,Fraudulent charity collection reported.
 Theft,Backpack Theft,28.564041,77.334413,2,Backpack theft at a train station.
