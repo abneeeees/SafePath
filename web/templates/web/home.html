@@ -63,16 +63,25 @@
     }
 
     // Geolocation
+    // Fallback starting location
+    const fallback_start = [28.474780644693578, 77.47638190820159];
+
     if (navigator.geolocation) {
-      setStatus("Requesting location...");
-      navigator.geolocation.getCurrentPosition((pos) => {
-        setUserLocation(pos.coords.latitude, pos.coords.longitude);
-      }, (err) => {
-        console.warn("geolocation error", err);
-        setStatus("Could not get location. Click map to set both start/destination.");
-      }, {enableHighAccuracy: true});
+        setStatus("Requesting location...");
+        navigator.geolocation.getCurrentPosition(
+            (pos) => {
+                setUserLocation(pos.coords.latitude, pos.coords.longitude);
+            },
+            (err) => {
+                console.warn("geolocation error", err);
+                setStatus("Using default starting location.");
+                setUserLocation(fallback_start[0], fallback_start[1]);
+            },
+            { enableHighAccuracy: true }
+        );
     } else {
-      setStatus("Geolocation not supported.");
+        setStatus("Geolocation not supported. Using default starting location.");
+        setUserLocation(FALLBACK_START[0], FALLBACK_START[1]);
     }
 
     // Map click
