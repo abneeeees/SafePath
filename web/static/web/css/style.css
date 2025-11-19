@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #121212;
+
+}
+
+#map {
+    width: 1450px;
+    height: 700px;
+    border-radius: 20px;
+}
+
+.info-panel {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: rgba(255,255,255,0.95);
+      padding: 10px;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      font-family: sans-serif;
+      width: 250px;
+    }
+    .control-row { margin-bottom: 8px; }
+    .btn { padding: 6px 10px; cursor: pointer; border-radius: 4px; border: 1px solid #888; background: #f5f5f5; }
+
+
+
+.main-cont{
+    display: flex;
+    padding: 1rem;
+    gap: 2rem;
+}
+/* =========== left content ========================== */
+.left-cont{
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+    gap: 0.7rem;
+}
+.left-cont .directions{
+    /* padding: 1rem; */
+    color: white;
+    background-color: #121212;
+    border: 2px #323232 solid;
+    border-radius: 10px;
+}
+.left-cont .directions .subcont{
+    /* background-color: blue; */
+    margin-bottom: 0.1rem;
+    padding: 1rem;
+    color: #A4A1A1;
+
+
+}
+.left-cont .directions .subcont h3{
+    font-weight: 500;
+}
+
+.left-cont .directions .subcont input{
+    color: #A4A1A1;
+    background-color: #121212;
+    border: none;
+    border-bottom: #3b3b3b 2px solid;
+    padding-block: 0.5rem;
+    /* border-radius: 10px; */
+}
+.left-cont .directions .subcont input:focus{
+        border: none;
+    border-bottom: #3b3b3b 2px solid;
+        outline: none;
+        box-shadow: none;
+
+}
+
+.left-cont .directions button{
+    margin: 0.5rem;
+    border: none;
+    width: 95%;
+    padding-block:1rem ;
+    /* padding-inline: 7rem; */
+    border-radius: 10px;
+    text-align: center;
+    
+    
+}
+.left-cont .available-paths{
+    background-color: #121212;
+    color: white;
+    border: 2px #323232 solid;
+    border-radius: 10px;
+    padding: 0.3rem;
+
+}
+
+.left-cont .available-paths h3{
+    font-weight: 500;
+    font-size: 24px;
+    /* text-align: center; */
+    padding-top: 1rem;
+    /* background-color: blue; */
+    padding-left: 0.5rem;
+    
+}
+.left-cont .available-paths h3 img{
+    /* background-color: blue; */
+    margin-left: 5.5rem;
+    
+    
+}
+.left-cont .available-paths ul{
+    margin-top: 1rem;
+    text-decoration: none;
+    /* background-color: blue; */
+    list-style: none;
+    
+}
+.left-cont .available-paths ul li{
+    margin-top: 0.2rem;
+}
+.left-cont .available-paths ul li button {
+    display: flex;
+    background-color: #2A2A2A;
+    border: none;
+    color: white;
+    text-align: left;
+    align-items: center;
+    padding: 0.5rem;
+    width: 100%;
+    gap: 2rem;
+    transition: 0.3s ease-in-out;
+}
+.left-cont .available-paths ul li button:hover 
+{
+    background-color: #404040;
+}
+.left-cont .available-paths ul li button h5{
+    font-size: 0.7rem;
+    font-weight: 400;
+    /* padding: 1rem; */
+}
+.left-cont .available-paths ul li button .innerdiv{
+    color: #888;
+    margin-left: 2rem;
+    font-size: 0.8rem;
+    /* background-color: blue; */
+    margin-top: 0.3rem;
+    /* padding: 0.4rem; */
+}
+
+.innerdiv progress{
+    border-radius: 0px;
+    border: transparent;
+    height: 8px;
+    background-color: #ddd;
+}
+.innerdiv progress::-webkit-progress-bar{
+    background-color: #74A858;
+}
+.innerdiv progress::-moz-progress-bar{
+    background-color: #74A858;
+}
+
+
+
+/* ==========right content starts here ========================= */
+
+.right-cont{
+    display: flex;
+    flex-direction: column;
+    /* background-color: blue; */
+    gap: 0.5rem;
+}
+.bottom-cont{
+    border-radius: 10px;
+    color: white;
+    padding: 0.5rem;
+    background-color: #121212;
+    border: 2px #323232 solid;
+    
+}
+.bottom-cont h3{
+    font-weight: 500;
+    
+}
+.bottom-cont .innerbottom{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: blue; */
+    padding-top: 1rem;
+    color: #a7a7a7;
+
+}
+.innerbottom .crime-based h4{
+    font-weight: 300;
+}
+.innerbottom .crime-based progress{
+    border-radius: 0px;
+    border: transparent;
+    height: 8px;
+    background-color: #ddd;
+}
+.innerbottom .crime-based progress::-webkit-progress-bar{
+    background-color: #74A858;
+}
+.innerbottom .crime-based progress::-moz-progress-bar{
+    background-color: #74A858;
+}
+.innerbottom .time-based h3{
+    font-weight: 300;
+    font-size: 1rem;
+}
+.innerbottom .time-based ul li{
+    list-style: none;
+}
